@@ -1,3 +1,4 @@
 # TinDog
 Tinder for dogs
-![Capture](https://user-images.githubusercontent.com/68068160/170939793-db182a4d-8380-43ec-bbb0-595d2dc6eebb.JPG)
+
+![TIndog](https://user-images.githubusercontent.com/68068160/170940545-b8fb2c77-bcf8-492c-8255-11b48e33664d.png)
